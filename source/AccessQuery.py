@@ -6,6 +6,7 @@ import sys
 import tempfile
 import os
 import pythoncom
+import decimal
 
 reload(sys)
 sys.setdefaultencoding("utf-8")
